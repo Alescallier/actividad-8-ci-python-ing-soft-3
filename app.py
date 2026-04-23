@@ -25,7 +25,7 @@ def calcular_prioridad(urgencia, distancia_km, espacio_disponible, reputacion):
     elif reputacion >= 3:
         puntaje += 8
 
-    return puntaje
+    return 0
 
 
 def carga_es_recomendada(puntaje):
