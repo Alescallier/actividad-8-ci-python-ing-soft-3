@@ -44,5 +44,3 @@ def estado_publicacion(carga_activa):
     if carga_activa:
         return "Disponible"
     return "No disponible"
-
-x=1
